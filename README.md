@@ -1,3 +1,3 @@
 # Tampermonkey Auto Scroll
 
-[Install](https://github.com/SyafaHadyan/auto-scroll/raw/main/script.user.js)
+[Install Script](https://github.com/SyafaHadyan/tampermonkey-auto-scroll/raw/main/script.user.js)

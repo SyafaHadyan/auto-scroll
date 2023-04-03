@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto Scroll to Bottom
 // @namespace    https://github.com/SyafaHadyan/auto-scroll.git
-// @version      1.0.0
+// @version      1.2.0
 // @description  Automatically scrolls to the bottom of the page continuously
 // @author       Syafa Hadyan
 // @match        https://*/*
@@ -12,10 +12,8 @@
 (function() {
     'use strict';
 
-    // Time interval between each scroll (in milliseconds)
-    const SCROLL_INTERVAL = 500;
+    const SCROLL_INTERVAL = 250;
 
-    // Start scrolling to the bottom
     setInterval(() => {
         window.scrollTo(0, document.body.scrollHeight);
     }, SCROLL_INTERVAL);
