@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Auto Scroll to Bottom
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/SyafaHadyan/auto-scroll.git
 // @version      1.0.0
 // @description  Automatically scrolls to the bottom of the page continuously
 // @author       Syafa Hadyan
